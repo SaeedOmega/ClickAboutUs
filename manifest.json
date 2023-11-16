@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d81c7c33.css",
+    "main.js": "/static/js/main.1212201c.js",
+    "static/media/Vazirmatn-RD-UI-FD-Bold.woff2": "/static/media/Vazirmatn-RD-UI-FD-Bold.b5df339453c03422d3bf.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-ExtraLight.woff2": "/static/media/Vazirmatn-RD-UI-FD-ExtraLight.e87c5c924771c7fc3328.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Medium.woff2": "/static/media/Vazirmatn-RD-UI-FD-Medium.aa6d4e02b2f3927f7c95.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-ExtraBold.woff2": "/static/media/Vazirmatn-RD-UI-FD-ExtraBold.b8b981d8834d2c4a8075.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-SemiBold.woff2": "/static/media/Vazirmatn-RD-UI-FD-SemiBold.a4cf294b8a41d0b6e720.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Light.woff2": "/static/media/Vazirmatn-RD-UI-FD-Light.cce12eebdb3f65644467.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Thin.woff2": "/static/media/Vazirmatn-RD-UI-FD-Thin.44eb3a03307657290946.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Regular.woff2": "/static/media/Vazirmatn-RD-UI-FD-Regular.c70f71d2afc4ae86440b.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Black.woff2": "/static/media/Vazirmatn-RD-UI-FD-Black.ee4ef88580b4624ded94.woff2",
+    "static/media/auth-banner.png": "/static/media/auth-banner.9265588ba28accfab908.png",
+    "static/media/auth-banner-bg.jpg": "/static/media/auth-banner-bg.c825299798d177fb53c7.jpg",
+    "index.html": "/index.html",
+    "main.d81c7c33.css.map": "/static/css/main.d81c7c33.css.map",
+    "main.1212201c.js.map": "/static/js/main.1212201c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d81c7c33.css",
+    "static/js/main.1212201c.js"
+  ]
+}

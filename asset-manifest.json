@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "https://clickmis.net/static/css/main.1c48ae6a.css",
+    "main.js": "https://clickmis.net/static/js/main.97f85511.js",
+    "static/media/img1.png": "https://clickmis.net/static/media/img1.66e1d7a7432e9c8d04fa.png",
+    "static/media/img2.png": "https://clickmis.net/static/media/img2.a153ab4f67d8abf14462.png",
+    "static/media/img3.png": "https://clickmis.net/static/media/img3.a1861b638d85227f2bcb.png",
+    "static/media/Vazirmatn-RD-UI-FD-Bold.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-Bold.b5df339453c03422d3bf.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-ExtraLight.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-ExtraLight.e87c5c924771c7fc3328.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Medium.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-Medium.aa6d4e02b2f3927f7c95.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-ExtraBold.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-ExtraBold.b8b981d8834d2c4a8075.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-SemiBold.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-SemiBold.a4cf294b8a41d0b6e720.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Light.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-Light.cce12eebdb3f65644467.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Thin.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-Thin.44eb3a03307657290946.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Regular.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-Regular.c70f71d2afc4ae86440b.woff2",
+    "static/media/Vazirmatn-RD-UI-FD-Black.woff2": "https://clickmis.net/static/media/Vazirmatn-RD-UI-FD-Black.ee4ef88580b4624ded94.woff2",
+    "static/media/bgVector.png": "https://clickmis.net/static/media/bgVector.df152a102b52b70905a6.png",
+    "static/media/img11.png": "https://clickmis.net/static/media/img11.4efa37ca8b529508d345.png",
+    "static/media/image 96.png": "https://clickmis.net/static/media/image 96.cbdf484de6ecf589de2b.png",
+    "static/media/image 86.png": "https://clickmis.net/static/media/image 86.cb73499f36155e4933e6.png",
+    "static/media/img15.svg": "https://clickmis.net/static/media/img15.d153b1daea9c7129518aa84d3b981455.svg",
+    "static/media/img14.svg": "https://clickmis.net/static/media/img14.41d8d2253267473f3ff1c9443adcda0e.svg",
+    "static/media/img12.svg": "https://clickmis.net/static/media/img12.ee048e196fa071aa8448548f08ea05ae.svg",
+    "static/media/img13.svg": "https://clickmis.net/static/media/img13.8e2e035f859f521aa4474d254d4c163b.svg",
+    "index.html": "https://clickmis.net/index.html",
+    "static/media/yellowTraingles.svg": "https://clickmis.net/static/media/yellowTraingles.18bebaef4ca8ac43a47502d7ca5cee81.svg",
+    "static/media/dollar-circle.svg": "https://clickmis.net/static/media/dollar-circle.9614702401f0d88e30d35c5cdb293008.svg",
+    "static/media/GreenCheckCircle.svg": "https://clickmis.net/static/media/GreenCheckCircle.38fd2ac0d827b89cb2d5c82594e0556c.svg",
+    "static/media/blueCircle.svg": "https://clickmis.net/static/media/blueCircle.799a45791515b73eb2bdcd491c5f5e02.svg",
+    "main.1c48ae6a.css.map": "https://clickmis.net/static/css/main.1c48ae6a.css.map",
+    "main.97f85511.js.map": "https://clickmis.net/static/js/main.97f85511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c48ae6a.css",
+    "static/js/main.97f85511.js"
+  ]
+}
